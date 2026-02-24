@@ -9,6 +9,9 @@ It uses Natural Language Processing (NLP) techniques such as TF-IDF and Cosine S
 - Suggest best-fit career roles
 - Provide intelligent career recommendations
 
+- <img width="1919" height="1094" alt="image" src="https://github.com/user-attachments/assets/3702808b-2212-499f-b973-575f916440ed" />
+
+
 ---
 
 ## 🧠 Technologies Used
